@@ -1,0 +1,1 @@
+{"address":"0x3e235c481d07a5006d5c8e9889b3167d691dc57f","blockNumber":[12875217,12875412],"abi":"[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[],\"name\":\"zap\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"}

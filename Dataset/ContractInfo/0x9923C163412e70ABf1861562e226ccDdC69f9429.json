@@ -1,0 +1,1 @@
+{"address":"0x9923c163412e70abf1861562e226ccddc69f9429","blockNumber":[12325262,12325279,12507325,12507338],"abi":"[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_masterCopy\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"}

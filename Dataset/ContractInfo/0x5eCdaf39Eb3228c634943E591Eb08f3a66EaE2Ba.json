@@ -1,0 +1,1 @@
+{"address":"0x5ecdaf39eb3228c634943e591eb08f3a66eae2ba","blockNumber":[6123498,6123574],"abi":"[{\"constant\":false,\"inputs\":[{\"name\":\"_target\",\"type\":\"address\"}],\"name\":\"delegatecall_selfdestruct\",\"outputs\":[{\"name\":\"_ans\",\"type\":\"bool\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"}

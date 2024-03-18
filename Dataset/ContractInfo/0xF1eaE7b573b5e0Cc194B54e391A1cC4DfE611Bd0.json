@@ -1,0 +1,1 @@
+{"address":"0xf1eae7b573b5e0cc194b54e391a1cc4dfe611bd0","blockNumber":[5227999,5228014],"abi":"[{\"constant\":false,\"inputs\":[{\"name\":\"_publicKey\",\"type\":\"bytes\"}],\"name\":\"authenticate\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"}

@@ -1,0 +1,1 @@
+{"address":"0x524960d55174d912768678d8c606b4d50b79d7b1","blockNumber":[4245786,4246425],"abi":"[{\"constant\":false,\"inputs\":[],\"name\":\"transfer\",\"outputs\":[{\"name\":\"\",\"type\":\"bool\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"}

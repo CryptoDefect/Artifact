@@ -1,0 +1,1 @@
+{"address":"0xd34f65e944891ae8cd453cdc3be90031f81123be","blockNumber":[11951854,11951925,11951972,11951975,11951995,11952005,11952018,11952037],"abi":"[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"}

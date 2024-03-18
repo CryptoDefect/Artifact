@@ -1,0 +1,1 @@
+{"address":"0x0b724e89b8853ca359172dc9503f3597a46f7a3d","blockNumber":[13122567,13122590],"abi":"[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[],\"name\":\"swapAndDepositETH\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"}

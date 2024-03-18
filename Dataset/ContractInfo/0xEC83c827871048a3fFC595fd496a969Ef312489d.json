@@ -1,0 +1,1 @@
+{"address":"0xec83c827871048a3ffc595fd496a969ef312489d","blockNumber":[12913835,12913871],"abi":"[{\"inputs\":[{\"internalType\":\"bytes\",\"name\":\"callData\",\"type\":\"bytes\"},{\"internalType\":\"address payable\",\"name\":\"target\",\"type\":\"address\"}],\"name\":\"init\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"}

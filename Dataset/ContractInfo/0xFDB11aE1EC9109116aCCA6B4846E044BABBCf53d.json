@@ -1,0 +1,1 @@
+{"address":"0xfdb11ae1ec9109116acca6b4846e044babbcf53d","blockNumber":[13218867,13218899],"abi":"[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_amount\",\"type\":\"uint256\"}],\"name\":\"bridgeCRV\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"}

@@ -1,0 +1,1 @@
+{"address":"0x2f0ea117e3580c634f10f26cab12bf1851e23802","blockNumber":[14538276,14538304,14538364],"abi":"[{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"payment\",\"type\":\"uint256\"},{\"internalType\":\"bytes\",\"name\":\"orderDetail\",\"type\":\"bytes\"}],\"name\":\"batchBuyWithETH\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"}
